@@ -1,4 +1,4 @@
-# gemstash
+# gemstash[![](https://images.microbadger.com/badges/version/jorgeandrada/gemstash:master.svg)](https://microbadger.com/images/jorgeandrada/gemstash:master "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/jorgeandrada/gemstash:master.svg)](https://microbadger.com/images/jorgeandrada/gemstash:master "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/jorgeandrada/gemstash:master.svg)](https://microbadger.com/images/jorgeandrada/gemstash:master "Get your own commit badge on microbadger.com")
 
 ## Despliegue del servidor:
 
