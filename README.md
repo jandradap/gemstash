@@ -1,0 +1,2 @@
+# gemstash
+Gemfile proxy cache
